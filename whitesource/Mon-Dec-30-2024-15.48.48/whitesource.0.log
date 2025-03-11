@@ -1,0 +1,244 @@
+[DEBUG] [2024-12-30 15:48:48,848 +0530] - Proxy host not provided
+[WARN] [2024-12-30 15:48:48,848 +0530] - Using default service URL to initialize API Client
+[DEBUG] [2024-12-30 15:48:48,863 +0530] - Base url:'https://saas.whitesourcesoftware.com' 
+[DEBUG] [2024-12-30 15:48:48,879 +0530] - Metric PRODUCT_NAME is empty
+[DEBUG] [2024-12-30 15:48:48,879 +0530] - Metric PROJECT_NAME is empty
+[INFO] [2024-12-30 15:48:48,910 +0530[ - UnifiedAgent version (pluginVersion) : 24.11.2
+[INFO] [2024-12-30 15:48:48,910 +0530[ - 
+------------------------------------------------------------------------
+-------------------- Start: Config Recommendation Analysis -------------
+------------------------------------------------------------------------
+[INFO] [2024-12-30 15:48:48,910 +0530[ - Getting all basic relevant parameters for recommendations.
+[INFO] [2024-12-30 15:48:48,926 +0530[ - Detecting files in folder for includes parameter.
+[DEBUG] [2024-12-30 15:48:48,973 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\Application.java
+[DEBUG] [2024-12-30 15:48:48,989 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\controllers\rest\FileController.java
+[DEBUG] [2024-12-30 15:48:48,989 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\controllers\rest\HelloController.java
+[DEBUG] [2024-12-30 15:48:48,989 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\controllers\rest\LdapController.java
+[DEBUG] [2024-12-30 15:48:48,989 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\controllers\rest\MessageController.java
+[DEBUG] [2024-12-30 15:48:48,989 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\controllers\rest\MovieController.java
+[DEBUG] [2024-12-30 15:48:48,989 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\controllers\rest\SellMovieObjectsController.java
+[DEBUG] [2024-12-30 15:48:49,004 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\controllers\rest\UserController.java
+[DEBUG] [2024-12-30 15:48:49,004 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\dto\ChatDto.java
+[DEBUG] [2024-12-30 15:48:49,004 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\dto\LdapUserDto.java
+[DEBUG] [2024-12-30 15:48:49,004 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\dto\MessageDto.java
+[DEBUG] [2024-12-30 15:48:49,004 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\dto\MovieDto.java
+[DEBUG] [2024-12-30 15:48:49,004 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\dto\OrderItemDto.java
+[DEBUG] [2024-12-30 15:48:49,004 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\dto\OrderListDto.java
+[DEBUG] [2024-12-30 15:48:49,004 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\dto\OrderResultDto.java
+[DEBUG] [2024-12-30 15:48:49,020 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\dto\UploadFileResponse.java
+[DEBUG] [2024-12-30 15:48:49,020 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\dto\UserDto.java
+[DEBUG] [2024-12-30 15:48:49,020 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\dto\UserInMessageDto.java
+[DEBUG] [2024-12-30 15:48:49,030 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\exception\InvalidOrderException.java
+[DEBUG] [2024-12-30 15:48:49,030 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\filter\ExtraAuthenticationCheckFilter.java
+[DEBUG] [2024-12-30 15:48:49,030 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\model\BaseEntity.java
+[DEBUG] [2024-12-30 15:48:49,036 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\model\Message.java
+[DEBUG] [2024-12-30 15:48:49,036 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\model\MessageType.java
+[DEBUG] [2024-12-30 15:48:49,036 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\model\Movie.java
+[DEBUG] [2024-12-30 15:48:49,036 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\model\MovieObject.java
+[DEBUG] [2024-12-30 15:48:49,036 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\model\User.java
+[DEBUG] [2024-12-30 15:48:49,036 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\services\autodao\MessageAutoDao.java
+[DEBUG] [2024-12-30 15:48:49,036 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\services\autodao\MovieAutoDao.java
+[DEBUG] [2024-12-30 15:48:49,052 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\services\autodao\UserAutoDao.java
+[DEBUG] [2024-12-30 15:48:49,052 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\services\FileStorageService.java
+[DEBUG] [2024-12-30 15:48:49,052 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\services\LdapService.java
+[DEBUG] [2024-12-30 15:48:49,052 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\services\MessageService.java
+[DEBUG] [2024-12-30 15:48:49,052 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\services\MovieService.java
+[DEBUG] [2024-12-30 15:48:49,052 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\services\RemotePasswordChangeService.java
+[DEBUG] [2024-12-30 15:48:49,052 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\services\SellMovieObjectsService.java
+[DEBUG] [2024-12-30 15:48:49,052 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\services\UserService.java
+[DEBUG] [2024-12-30 15:48:49,067 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\springconfig\CustomAuthenticationFailureHandler.java
+[DEBUG] [2024-12-30 15:48:49,067 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\springconfig\CustomAuthenticationSuccessHandler.java
+[DEBUG] [2024-12-30 15:48:49,067 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\springconfig\CustomLogoutSuccessHandler.java
+[DEBUG] [2024-12-30 15:48:49,067 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\springconfig\LdapConfig.java
+[DEBUG] [2024-12-30 15:48:49,067 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\springconfig\MyServletConfig.java
+[DEBUG] [2024-12-30 15:48:49,067 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\springconfig\UserDetailsServiceImpl.java
+[DEBUG] [2024-12-30 15:48:49,067 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\springconfig\WebSecurityConfig.java
+[DEBUG] [2024-12-30 15:48:49,067 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\springconfig\WebSocketConfig.java
+[DEBUG] [2024-12-30 15:48:49,067 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\utils\FileUtil.java
+[DEBUG] [2024-12-30 15:48:49,067 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\java\com\kalavit\javulna\utils\SerializationUtil.java
+[DEBUG] [2024-12-30 15:48:49,083 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\resources\data.sql
+[DEBUG] [2024-12-30 15:48:49,161 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\data.sql
+[DEBUG] [2024-12-30 15:48:49,161 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\javulna-1.0-SNAPSHOT-jar-with-dependencies.jar
+[DEBUG] [2024-12-30 15:48:49,161 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\javulna-1.0-SNAPSHOT.jar
+[DEBUG] [2024-12-30 15:48:49,177 +0530[ - Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\wss-unified-agent.jar
+[INFO] [2024-12-30 15:48:49,177 +0530[ - Supported extensions detected in project directory:java, jar, sql
+[INFO] [2024-12-30 15:48:49,193 +0530[ - Detecting resolver parameters to be recommended.
+[DEBUG] [2024-12-30 15:48:49,931 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\pom.xml
+[DEBUG] [2024-12-30 15:48:49,950 +0530[ - FilesFrom: html, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\webapp\index.html
+[DEBUG] [2024-12-30 15:48:49,950 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\application.properties
+[DEBUG] [2024-12-30 15:48:49,950 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\banner.txt
+[DEBUG] [2024-12-30 15:48:49,950 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\Application.class
+[DEBUG] [2024-12-30 15:48:49,950 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\controllers\rest\FileController.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\controllers\rest\HelloController.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\controllers\rest\LdapController.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\controllers\rest\MessageController.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\controllers\rest\MovieController.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\controllers\rest\SellMovieObjectsController.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\controllers\rest\UserController.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\ChatDto.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\LdapUserDto.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\MessageDto.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\MovieDto.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\OrderItemDto.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\OrderListDto.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\OrderResultDto.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\UploadFileResponse.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\UserDto.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\UserInMessageDto.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\exception\InvalidOrderException.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\filter\ExtraAuthenticationCheckFilter.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\model\BaseEntity.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\model\Message.class
+[DEBUG] [2024-12-30 15:48:49,966 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\model\MessageType.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\model\Movie.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\model\MovieObject.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\model\User.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\autodao\MessageAutoDao.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\autodao\MovieAutoDao.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\autodao\UserAutoDao.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\FileStorageService.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\LdapService.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\MessageService.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\MovieService$1.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\MovieService.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\RemotePasswordChangeService.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\SellMovieObjectsService.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\UserService.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\CustomAuthenticationFailureHandler.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\CustomAuthenticationSuccessHandler.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\CustomLogoutSuccessHandler.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\LdapConfig.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\MyServletConfig.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\UserDetailsServiceImpl.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\WebSecurityConfig$1.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\WebSecurityConfig.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\WebSocketConfig.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\utils\FileUtil.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\utils\SerializationUtil.class
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\data.sql
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\dozer-bean-mappings.xml
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\ESAPI.properties
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\xml\PasswordChange.xml
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\javulna-1.0-SNAPSHOT-jar-with-dependencies.jar
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\javulna-1.0-SNAPSHOT.jar
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\javulna-1.0-SNAPSHOT.jar.original
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\maven-archiver\pom.properties
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst
+[DEBUG] [2024-12-30 15:48:49,981 +0530[ - FilesFrom: maven, Dependency file found location: E:\Projects\Mend_Project\javulna-master\javulna-master\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - top folders found:
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - +- E:\Projects\Mend_Project\javulna-master\javulna-master
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\pom.xml
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\data.sql
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\banner.txt
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\javulna-1.0-SNAPSHOT.jar
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\ESAPI.properties
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\maven-archiver\pom.properties
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\application.properties
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\xml\PasswordChange.xml
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\dozer-bean-mappings.xml
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\javulna-1.0-SNAPSHOT.jar.original
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\model\User.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\Application.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\UserDto.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\model\Movie.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\ChatDto.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\javulna-1.0-SNAPSHOT-jar-with-dependencies.jar
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\MovieDto.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\model\Message.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\MessageDto.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\utils\FileUtil.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\LdapUserDto.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\model\BaseEntity.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\OrderItemDto.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\OrderListDto.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\model\MovieObject.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\model\MessageType.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\OrderResultDto.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\UserInMessageDto.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\UserService.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\LdapService.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\MovieService.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\dto\UploadFileResponse.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\MovieService$1.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\utils\SerializationUtil.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\MessageService.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\LdapConfig.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\FileStorageService.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\WebSocketConfig.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\MyServletConfig.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\autodao\UserAutoDao.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\autodao\MovieAutoDao.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\WebSecurityConfig.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\exception\InvalidOrderException.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\controllers\rest\LdapController.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\controllers\rest\FileController.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\controllers\rest\UserController.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\autodao\MessageAutoDao.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\SellMovieObjectsService.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\WebSecurityConfig$1.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\controllers\rest\MovieController.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\controllers\rest\HelloController.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\controllers\rest\MessageController.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\UserDetailsServiceImpl.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\services\RemotePasswordChangeService.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\filter\ExtraAuthenticationCheckFilter.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\CustomLogoutSuccessHandler.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\controllers\rest\SellMovieObjectsController.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\CustomAuthenticationSuccessHandler.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\target\classes\com\kalavit\javulna\springconfig\CustomAuthenticationFailureHandler.class
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - top folders found:
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - +- E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\webapp
+[DEBUG] [2024-12-30 15:48:49,997 +0530[ - |  +- E:\Projects\Mend_Project\javulna-master\javulna-master\src\main\webapp\index.html
+[INFO] [2024-12-30 15:48:49,997 +0530[ - .html file/folder detected
+[INFO] [2024-12-30 15:48:49,997 +0530[ - pom.xml file/folder detected
+[INFO] [2024-12-30 15:48:50,044 +0530[ - 
+[INFO] [2024-12-30 15:48:50,044 +0530[ - Source File Percentage Analysis:
+[INFO] [2024-12-30 15:48:50,044 +0530[ - java ================ 97.87%
+[INFO] [2024-12-30 15:48:50,044 +0530[ - html ================ 2.13%
+[INFO] [2024-12-30 15:48:50,044 +0530[ - 
+[INFO] [2024-12-30 15:48:50,044 +0530[ - '-detect' param was detected, config file recommendation will generate a new config file.
+[INFO] [2024-12-30 15:48:50,060 +0530[ - 
+------------------------------------------------------------------------
+-------------------- Generating config file ----------------------------
+------------------------------------------------------------------------
+[INFO] [2024-12-30 15:48:50,060 +0530[ - Printing params
+[INFO] [2024-12-30 15:48:50,060 +0530[ - resolveAllDependencies will be set to false
+[INFO] [2024-12-30 15:48:50,060 +0530[ - archiveExtractionDepth will be set to 7
+[INFO] [2024-12-30 15:48:50,060 +0530[ - followSymbolicLinks will be set to false
+[INFO] [2024-12-30 15:48:50,060 +0530[ - html.resolveDependencies will be set to true
+[INFO] [2024-12-30 15:48:50,060 +0530[ - maven.resolveDependencies will be set to true
+[INFO] [2024-12-30 15:48:50,060 +0530[ - apiKey is mandatory
+[INFO] [2024-12-30 15:48:50,060 +0530[ - productName is mandatory
+[INFO] [2024-12-30 15:48:50,060 +0530[ - projectName is mandatory
+[INFO] [2024-12-30 15:48:50,060 +0530[ - wss.url is mandatory
+[INFO] [2024-12-30 15:48:50,060 +0530[ - param licenseKey will be recommended but hash-tagged(#) since its optional
+[INFO] [2024-12-30 15:48:50,060 +0530[ - param projectTag will be recommended but hash-tagged(#) since its optional
+[INFO] [2024-12-30 15:48:50,060 +0530[ - param projectToken will be recommended but hash-tagged(#) since its optional
+[INFO] [2024-12-30 15:48:50,060 +0530[ - includes will be set to **/*.java **/*.jar **/*.sql
+[INFO] [2024-12-30 15:48:50,060 +0530[ - New configuration was created at E:\Projects\Mend_Project\javulna-master\javulna-master\wss-generated-file.config
+[INFO] [2024-12-30 15:48:50,060 +0530[ - 
+------------------------------------------------------------------------
+-------------------- End: Config Recommendation Analysis ---------------
+------------------------------------------------------------------------
+[INFO] [2024-12-30 15:48:50,075 +0530[ - Service URL is https://saas.whitesourcesoftware.com/agent
+[DEBUG] [2024-12-30 15:48:50,169 +0530[ - finalizing metrics collection
+[DEBUG] [2024-12-30 15:48:51,319 +0530[ - Failed to send metrics: Illegal arguments: Bad org token
+[INFO] [2024-12-30 15:48:51,321 +0530[ - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------- WhiteSource Scan Summary: --------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
+======================================================================================================================================================
+
+======================================================================================================================================================
+Step                                              Completion Status               Elapsed                  Comments
+======================================================================================================================================================
+Fetch Configuration                                  COMPLETED                  00:00:00.150               --------
+Config Recommendation Analysis                       COMPLETED                  00:00:01.150               --------
+
+======================================================================================================================================================
+Elapsed running time:                                                           00:00:01.300
+======================================================================================================================================================
+Process finished with exit code SUCCESS (0)
+
