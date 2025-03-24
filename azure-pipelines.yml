@@ -3,14 +3,9 @@
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 
-trigger:
-- master
-pool:
-  vmImage: ubuntu-latest
-
 steps:
 - task: WhiteSource@21
   inputs:
     cwd: 'E:\Meteonic_2024\Projects\WebGoat.NET-master'
-    projectName: 'WebGoat'
+    projectName: "WebGoat"
     configuration: 'E:\Meteonic_2024\Projects\WebGoat.NET-master\wss-unified-agent'
