@@ -9,3 +9,4 @@ steps:
     cwd: 'E:\Meteonic_2024\Projects\WebGoat.NET-master'
     projectName: "WebGoat"
     configuration: 'E:\Meteonic_2024\Projects\WebGoat.NET-master\wss-unified-agent'
+     
